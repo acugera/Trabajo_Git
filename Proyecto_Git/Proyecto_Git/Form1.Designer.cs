@@ -38,9 +38,9 @@
             this.lblPrueva.Location = new System.Drawing.Point(71, 10);
             this.lblPrueva.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPrueva.Name = "lblPrueva";
-            this.lblPrueva.Size = new System.Drawing.Size(290, 73);
+            this.lblPrueva.Size = new System.Drawing.Size(463, 73);
             this.lblPrueva.TabIndex = 0;
-            this.lblPrueva.Text = "-Prueba-";
+            this.lblPrueva.Text = "Hola que onda";
             this.lblPrueva.Click += new System.EventHandler(this.lblPrueva_Click);
             // 
             // frmPrincipal
@@ -50,7 +50,7 @@
             this.ClientSize = new System.Drawing.Size(428, 92);
             this.Controls.Add(this.lblPrueva);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "frmPrincipal";
             this.Text = "Principal";
             this.ResumeLayout(false);
