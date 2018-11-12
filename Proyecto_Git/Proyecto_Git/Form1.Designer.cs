@@ -38,9 +38,9 @@
             this.lblPrueva.Location = new System.Drawing.Point(71, 10);
             this.lblPrueva.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.lblPrueva.Name = "lblPrueva";
-            this.lblPrueva.Size = new System.Drawing.Size(463, 73);
+            this.lblPrueva.Size = new System.Drawing.Size(257, 73);
             this.lblPrueva.TabIndex = 0;
-            this.lblPrueva.Text = "Hola que onda";
+            this.lblPrueva.Text = "Buenas";
             this.lblPrueva.Click += new System.EventHandler(this.lblPrueva_Click);
             // 
             // frmPrincipal
